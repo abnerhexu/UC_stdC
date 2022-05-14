@@ -1,0 +1,9 @@
+# About this repository
+This is a repository for source code and report submmission of project in Undergraduate Computing course, NUDT, 2022.
+
+# About UC course
+UC course is a course brought by NUDT, featuring in program designed, modify and build. In other university, courses with similar functions may be referred as *C++ Program Design* or *Python Program Design*.
+However, UC is more than just simply designing a program. According to NUDT, The "Computing in Science Education (CSE)" project funded by the Norwegian Agency for Quality Assurance in Education (NOKUT) and promoted by the University of Oslo in 2012 is based on the core idea of "Computing + Natural Science". "The core idea of "Computing + Natural Sciences" is designed to meet the needs of the new engineering computing competence in the cross-fertilization of "Computing +", with well-designed, noisy and complex The design concept is oriented to the new engineering computing ability demanded by the cross-fertilization of "computing+", with well-designed complex cases full of "noise" to link the course objectives, decomposing real cases with learning as the center, starting from simple, iteratively rolling in depth, implanting knowledge, methods and possible problems required for computing in the process, gradually cultivating computational analysis and computational research ability of complex engineering problems, so that students can meet the computational ability of "computing+" science and technology positions The students will be able to meet the advanced requirements of computing skills for "computing+" jobs, and be able to apply the same knowledge and skills to solve new demands of science and technology independently by relying on open resources on the Internet.
+
+# About the assignment
+Different professors may assign different tasks. If you are lucky to meet this Tetris task, it will be fine since you have found such help from GitHub. :)
