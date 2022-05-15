@@ -1,0 +1,15 @@
+﻿  Tetris.cpp
+L:\stdC\Project\repo\Tetris\Tetris.cpp(117,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(158,42): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(158,19): warning C4244: “参数”: 从“double”转换到“UINT_PTR”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(143,12): warning C4101: “wmEvent”: 未引用的局部变量
+L:\stdC\Project\repo\Tetris\Tetris.cpp(143,6): warning C4101: “wmId”: 未引用的局部变量
+L:\stdC\Project\repo\Tetris\Tetris.cpp(635,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(684,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(690,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(694,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(696,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(784,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(784,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(810,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Tetris.vcxproj -> L:\stdC\Project\repo\Debug\Tetris.exe

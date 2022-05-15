@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Tetris.cpp
+L:\stdC\Project\repo\Tetris\Tetris.cpp(120,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(179,26): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(219,27): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(336,28): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(359,29): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(146,12): warning C4101: “wmEvent”: 未引用的局部变量
+L:\stdC\Project\repo\Tetris\Tetris.cpp(146,6): warning C4101: “wmId”: 未引用的局部变量
+L:\stdC\Project\repo\Tetris\Tetris.cpp(753,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(799,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(805,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(809,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(811,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(899,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(899,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+L:\stdC\Project\repo\Tetris\Tetris.cpp(925,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  yuan.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Tetris.vcxproj -> L:\stdC\Project\repo\Release\Tetris.exe
